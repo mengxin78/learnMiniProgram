@@ -1,2 +1,5 @@
 <!--pages/home/home.wxml-->
 <text>hellovx</text>
+
+<view>知识点1</view>
+<view>小程序初体验</view>
